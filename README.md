@@ -1,0 +1,1 @@
+This is a very simple Calculator that I built to test out the fundamentals of Bash as a programming language. 
